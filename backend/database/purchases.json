@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2a8668b2-95c2-4825-b4ec-af6b95fd80a8",
+    "userId": "c34fc5d1-2e26-49c4-8b11-30ee3153d5eb",
+    "productId": "74210c5e-70df-41b3-b2f0-fde0c14e413c",
+    "productName": "Gorila",
+    "price": 550,
+    "purchaseDate": "2026-03-11T23:37:42.697Z"
+  },
+  {
+    "id": "53339317-6ac5-4702-9a81-46f94d4c0c6c",
+    "userId": "c34fc5d1-2e26-49c4-8b11-30ee3153d5eb",
+    "productId": "74210c5e-70df-41b3-b2f0-fde0c14e413c",
+    "productName": "Gorila",
+    "price": 550,
+    "purchaseDate": "2026-03-11T23:37:47.717Z"
+  }
+]

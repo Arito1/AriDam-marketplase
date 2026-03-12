@@ -1,0 +1,9 @@
+{
+  "name": "hipsage-backend",
+  "version": "1.0.0",
+  "description": "Pure Node.js backend for Hipsage Marketplace",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}

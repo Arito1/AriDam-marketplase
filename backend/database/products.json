@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sample-product-1",
+    "name": "Wireless Headphones",
+    "description": "Comfortable wireless headphones with deep bass and long battery life.",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "quantity": 8,
+    "sellerId": "system",
+    "sellerUsername": "admin",
+    "createdAt": "2026-03-12T10:00:00.000Z",
+    "updatedAt": "2026-03-12T10:00:00.000Z",
+    "comments": [
+      {
+        "id": "c1",
+        "userId": "u1",
+        "username": "maria",
+        "rating": 5,
+        "text": "Amazing sound quality!",
+        "createdAt": "2026-03-12T11:00:00.000Z"
+      },
+      {
+        "id": "c2",
+        "userId": "u2",
+        "username": "alex",
+        "rating": 4,
+        "text": "Very good for the price.",
+        "createdAt": "2026-03-12T11:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "sample-product-2",
+    "name": "Gaming Mouse",
+    "description": "RGB gaming mouse with adjustable DPI and ergonomic design.",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+    "quantity": 5,
+    "sellerId": "system",
+    "sellerUsername": "admin",
+    "createdAt": "2026-03-12T10:20:00.000Z",
+    "updatedAt": "2026-03-12T10:20:00.000Z",
+    "comments": []
+  },
+  {
+    "id": "74210c5e-70df-41b3-b2f0-fde0c14e413c",
+    "name": "Gorila",
+    "description": "energos",
+    "price": 550,
+    "image": "https://avatars.mds.yandex.net/i?id=f17fba11b1dbe262b279dfdedec2dd54_l-10036291-images-thumbs&n=13",
+    "quantity": 8,
+    "sellerId": "c34fc5d1-2e26-49c4-8b11-30ee3153d5eb",
+    "sellerUsername": "Arthur",
+    "createdAt": "2026-03-11T23:36:54.326Z",
+    "updatedAt": "2026-03-11T23:37:47.716Z",
+    "comments": [
+      {
+        "id": "3787e26b-8c4e-49f7-99fa-d7eda246ce9d",
+        "userId": "c34fc5d1-2e26-49c4-8b11-30ee3153d5eb",
+        "username": "Arthur",
+        "rating": 5,
+        "text": "kaif \nmango one love",
+        "createdAt": "2026-03-11T23:37:38.164Z"
+      }
+    ]
+  }
+]

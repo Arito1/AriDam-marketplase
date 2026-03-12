@@ -1,4 +1,4 @@
-# Hipsage Marketplace
+# AriDam Marketplace
 
 This project was built for the midterm assignment **Create a Marketplace**.
 
